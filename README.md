@@ -20,7 +20,6 @@ Incorporates robust error handling mechanisms to gracefully handle potential net
 Respects Amazon's terms of service by adhering to rate limits and avoiding excessive scraping requests.
 
 Approach:
-
 Project Setup:
 
 Install required libraries: pandas, requests, bs4, datetime (and optionally smtplib or yagmail).
